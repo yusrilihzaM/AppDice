@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Dice</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="content_text_angka">content-text angka</string>
+    <string name="result_roll">Result Roll</string>
+</resources>
